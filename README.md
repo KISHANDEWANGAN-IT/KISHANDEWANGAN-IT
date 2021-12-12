@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kishan Dewangan</h1>
 <h3 align="center">A passionate Frontend developer </h3>
+<img align="right" alt="GIF" src="gif/avento.gif" width="300" height="200" />
 - 👨‍💻 I'm a Developer, Creator, and Mentor!!<br>
 - ✍ You can find my projects soon.<br>
 - 🌱 I’m currently learning React and mongoDB<br>
